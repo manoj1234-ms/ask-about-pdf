@@ -1,0 +1,42 @@
+npm init -y
+
+npm install express cors multer multer mongoose
+
+npm install uuid pdf-parse openai @langchain/openai 
+
+npm install chromadb langchain 
+langchain defination:
+langchain is a framework for building application with language models
+it provide tools and abstraction to help developers create applications that
+can understand and generate human language.it help us to allow us to easily integrate
+models into our application making it easier to build chatbots
+
+npm install nodemon -D
+
+npm install dotenv --legacy-peer-deps
+
+ npm install @langchain/community --legacy-peer-deps
+
+npm install @langchain/textsplitters --legacy-peer-deps
+
+ steps
+ // env file
+
+ // connectDB
+
+ // mongoconnection
+ // chromadb connection
+ //  create pdfmodel
+ // create server
+ // create upload route
+ // PDF Controller
+ // pdf reading services
+ // chunking
+ // embedding
+ // generate vectors 
+ // store in chromadb
+ // save embedding
+
+ //chat routes
+ //chatContoller
+ 
